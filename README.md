@@ -31,11 +31,17 @@ A working demonstration of the original 2024 app is available here:
 
 https://youtu.be/GzU0tc0OaRM
 
-## Repository Structure
+Repository Contents
 
-- `blocks/` — visual block code from the Thunkable project
-- `interface/` — screenshots of the app interface
-- `testing/` — testing and validation evidence
+This repository includes:
+
+screenshots of the original Thunkable visual block code
+
+screenshots of the Customer, Collector, Recycler, authentication, and quiz interfaces
+
+testing evidence for the 100 kg recycler-request threshold
+
+a link to the original working app demonstration
 
 ## Development
 
